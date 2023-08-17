@@ -1,4 +1,4 @@
-# Ifood-Dev-Week-2023
+# IfoodDevWeek2023
 >Repository status: Finish
 
 A project developed during Ifood DevWeek 2023, an immersion of DIO in partnership with Ifood. 
